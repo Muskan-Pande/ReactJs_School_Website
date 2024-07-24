@@ -1,4 +1,5 @@
 #Prerequisites
+
 Before you begin, make sure you have the following software and accounts:
 
 1. Node.js: Download and install the latest stable version of Node.js from nodejs.org.
@@ -6,6 +7,7 @@ Before you begin, make sure you have the following software and accounts:
 3. Git: Download and install Git from git-scm.com.
 
 #Project Setup
+
 1. Clone the Repository:
 Open a terminal or command prompt.
 Navigate to the directory where you want to clone the project.
@@ -18,6 +20,7 @@ Install the project dependencies using npm: npm install
 This command reads the package.json file and installs all the dependencies listed under dependencies.
 
 #Running the Project
+
 Start the Development Server:
 Ensure you are in the project directory.
 Run the development server using npm: npm start
